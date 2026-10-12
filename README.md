@@ -41,7 +41,7 @@ Week16_Lab/   第 16 周 · 期末复习与总结
 
 ```bash
 # 克隆本仓库到本地
-git clone git@github.com:liu-1314486/Week05_Lab_LiuMingxing.git
+git clone https://github.com/liu-1314486/Week05_Lab_LiuMingxing.git
 
 # 进入对应周次的目录，开始编写代码
 cd Week05_Lab/
