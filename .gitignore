@@ -1,0 +1,45 @@
+# ===== 操作系统生成文件 =====
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ===== IDE 与编辑器配置 =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# ===== C / C++ =====
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.dll
+*.so
+
+# ===== Java =====
+*.class
+*.jar
+*.war
+target/
+
+# ===== Jupyter Notebook =====
+.ipynb_checkpoints/
+
+# ===== 日志与临时文件 =====
+*.log
+*.tmp
+*.bak
